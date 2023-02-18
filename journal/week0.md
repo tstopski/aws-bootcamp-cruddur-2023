@@ -19,6 +19,9 @@ This is the first time I have used Lucid Charts for diagrams. Below is a screens
 
 ![Cruddur Logical Architecture Diagram in Lucid!](assets/Cruddur-Logical-Architecture-Screenshot.png)
 
+I also wanted to share out the link if possible so instructors can actually view my diagram. The Share Link follows:
+Share Link: https://lucid.app/lucidchart/5f448be7-f8e8-423b-9d8b-0ba67a39be6e/edit?viewport_loc=-540%2C-167%2C2903%2C1556%2C0_0&invitationId=inv_88339f9e-5de7-44de-a130-5e7152255215
+
 ### 4. Create Admin User, Use Cloudshell, Generate AWS Credentials
 
 I know that based on Andrew Brown's YouTube video, Updating Your Journal in Github, I do not need to provide proof for these three items. I still wanted to capture
