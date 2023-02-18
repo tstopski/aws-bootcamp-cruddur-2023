@@ -11,13 +11,13 @@ I was able to watch all the videos created for Week 0. This was time-consuming b
 I chose to draw the conceptual diagram on a napkin from Starbucks so I felt like a true visionary. That said, I still need to do some more research on the inner-workings
 of what was truly captured on my napkin. I guess this means I need to commit more time to research. Below is a photo of my conceptual drawing for proof of completion:
 
-** Insert Napkin Photo Here **
+![Cruddur Conceptual Napkin Drawing!](assets/Cruddur-Conceptual-Napkin.jpg)
 
 ### 3. Recreate Logical Architectual Diagram in Lucid Charts
 
 This is the first time I have used Lucid Charts for diagrams. Below is a screenshot of my final logical architecture diagram:
 
-** Insert Cruddur logical photo here **
+![Cruddur Logical Architecture Diagram in Lucid!](assets/Cruddur-Logical-Architecture-Screenshot.png)
 
 ### 4. Create Admin User, Use Cloudshell, Generate AWS Credentials
 
@@ -37,6 +37,6 @@ I was able to use Gitpod to install AWS CLI. I have added the verification photo
 I watched the videos that both Chirag and Andrew posted on the ExamPro youtube channel. Andrew's video for budgets was much more in-depth and helpful. I captured a
 screenshot of my budgets just in case it was needed for homework verification. See below:
 
-** insert budget photo here**
+![AWS Budget Creation Proof!](assets/Budgets%20Setup%20AWS%20(17Feb23).png)
 
 ## Homework Challenges
